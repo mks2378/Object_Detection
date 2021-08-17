@@ -33,7 +33,6 @@ runtime=$((end - start))
 
 echo "Download completed in " $runtime  " second"
 
-
 # reference
 # https://www.programmersought.com/article/98211395063/
 # https://gist.github.com/mkocabas/a6177fc00315403d31572e17700d7fd9
