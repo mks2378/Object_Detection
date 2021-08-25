@@ -20,3 +20,4 @@ echo "Download completed in " $runtime  " second"
 
 # reference
 # https://a292run.tistory.com/entry/YOLO-v3-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+# https://pjreddie.com/projects/pascal-voc-dataset-mirror/
